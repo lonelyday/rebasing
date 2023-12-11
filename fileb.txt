@@ -1,1 +1,2 @@
 line in new file
+and another
